@@ -13,9 +13,10 @@ de estados basada en el diagrama de transiciones del enunciado de la actividad.
     o se genera una nueva tanda de basura (tecla M cambia el modo).
     Solo muere si la batería se agota antes de llegar a la estación.
 
-Uso:      python robot_recolector_v2.py [semilla]
 Controles: ESPACIO pausa | + / - velocidad | M modo | R reiniciar | ESC salir
-Requiere:  pip install pygame
+
+October 1th 2026
+I.S.C. Emmanuel Cisneros Flores
 """
 import math
 import random
